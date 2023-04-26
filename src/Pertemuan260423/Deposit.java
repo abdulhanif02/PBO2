@@ -41,7 +41,7 @@ public class Deposit {
             break;
             
             default : System.out.println("Input Error");
-        }
+        }
 
     }
 }
