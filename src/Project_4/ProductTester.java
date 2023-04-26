@@ -1,4 +1,4 @@
-package inventory;
+package Project_4;
 
 public class ProductTester {
 

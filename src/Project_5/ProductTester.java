@@ -1,4 +1,4 @@
-package inventory;
+package Project_5;
 
 import java.util.Scanner;
 
