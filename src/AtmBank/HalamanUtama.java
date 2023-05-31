@@ -97,11 +97,13 @@ public class HalamanUtama extends javax.swing.JFrame {
     private void transferActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_transferActionPerformed
         // TODO add your handling code here:
          new Tranfer2().setVisible(true);
+         this.setVisible(false);
     }//GEN-LAST:event_transferActionPerformed
 
     private void informasisaldoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_informasisaldoActionPerformed
         // TODO add your handling code here:
         new InformasiSaldo().setVisible(true);
+        this.setVisible(false);
     }//GEN-LAST:event_informasisaldoActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
@@ -112,6 +114,7 @@ public class HalamanUtama extends javax.swing.JFrame {
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
         new Penarikan().setVisible(true);
+        this.setVisible(false);
     }//GEN-LAST:event_jButton4ActionPerformed
    
     /**
